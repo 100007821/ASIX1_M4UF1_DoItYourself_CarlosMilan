@@ -1,4 +1,5 @@
 Mediante una hoja de estilos externos se ha de aplicar formato a la página web de manera que:
+
 1.Utiliza el selector universal * para poner el texto alineado al centro y la fuente de Fonts Google de Open Sans Light 300 Italic
 2.Utiliza la clase img para ponerle el maximo de 350px y un margin-right de 450px
 3.Utiliza el selector universal * pon el color de toda la pagina en rojo
