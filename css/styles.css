@@ -1,0 +1,38 @@
+* { /*1.Utiliza el selector universal * para poner el texto alineado al centro y la fuente de Fonts Google de Open Sans Light 300 Italic*/
+    /*3.Utiliza el selector universal * pon el color de toda la pagina en rojo*/
+    font-family: 'Open Sans Light', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    background-color: red;
+  }
+  .img { /*2.Utiliza la clase img para ponerle el maximo de 350px y un margin-right de 450px*/
+
+    max-width: 350px;
+    margin-left: 450px;
+  }
+  h1 { /*4.A los elementos de h1 estaran subrayados (text-decoration: underline) y de color aquamarine.*/
+    text-decoration: underline;
+    color: aquamarine;
+    text-align: center ;
+  }
+  ol li,
+  ul li {/*5.Pon que los li que hayan dentro de ol y ul tengan color yellow.*/   
+    color: yellow;
+  }
+  .Subtitulo { /*6.A la clase "Subtitulo" ponles un subrayado (text-decoration:underline) y color chartreuse.*/
+    text-decoration: underline;
+    color: chartreuse;
+  }
+  h2, p { /*7.A las clases h2 y p cambiale el color a violet.*/
+    color: violet;
+  }
+  p { /*8.A los elementos de p ponle el color white*/
+    color: white;
+  }
+  h3 { /*9.A los elementos de h3 ponle un background-color de negro*/
+    background-color: black;
+  }
+  p b { /*10.A los elementos de b que esta dentro de p ponle el color black*/
+    color: black;
+  }
+            
